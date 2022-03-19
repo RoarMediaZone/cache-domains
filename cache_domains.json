@@ -126,6 +126,13 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "likee",
+			"description": "CDN for likee",
+			"notes": "Should be enabled for HTTP traffic only or with a HTTPS proxy else origin client download fails",
+			"mixed_content": true,
+			"domain_files": ["likee.txt"]
 		}
 	]
 }
