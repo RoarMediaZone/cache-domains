@@ -8,3 +8,4 @@ videosnap2.like.video
 bd-cdn.news-cdn.site
 bd-img.like.video
 gdl.masala.sh
+*.like.video
